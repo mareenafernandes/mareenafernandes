@@ -2,9 +2,7 @@
 
 <p align='center'>
 
-<a href="https://instagram.com/maxzeal.mareena"><img height="30" src="https://github.com/mareenafernandes/mareenafernandes/blob/main/icons/instagram.jpg"></a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mareena-fernandes-240984180/"><img height="30" src="https://github.com/mareenafernandes/mareenafernandes/blob/main/icons/linkedin.png"></a>
+<a href="https://instagram.com/maxzeal.mareena"><img height="30" src="https://github.com/mareenafernandes/mareenafernandes/blob/main/icons/instagram.jpg"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mareena-fernandes-240984180/"><img height="30" src="https://github.com/mareenafernandes/mareenafernandes/blob/main/icons/linkedin.png"></a>
 
 </p>
 
