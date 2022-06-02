@@ -8,7 +8,7 @@
 
 Hey there👋,
 
-I am currently pursuing IT Engineering from Mumbai University. I am a self-taught graphic designing enthusiast and I have recently started social media handles for the purpose of showcasing my artwork. The link to my art account is mentioned above. Other than my ongoing degree in IT Engineering I also enjoy Managemental challenges. I have done really simple and easy to understand projects (please refer to my repositories for the topics and codes). I also love listening to music in my free time other than being creative. 
+I am an Incoming Business Analyst fresher, skilled in analyzing and interpreting consumer behavior and trends through data patterns. I am also an IT Engineering graduate with interest and experience in project management, project financing, and human resources management. I have experience handling online marketing and publicity campaigns for small and medium-scale enterprises. Enthusiastic graphic designer and amateur artist. I have done really simple and easy to understand projects (please refer to my repositories for the topics and codes). I also love listening to music in my free time other than being creative. 
 
 ---
 
